@@ -184,7 +184,7 @@ header .items .btn{
     text-align: center;
 }
 .home .home-content{
-    background-image: url(image/home.jpg);
+    background-image: url(home.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
